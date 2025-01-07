@@ -15,28 +15,28 @@
 </p>
 
 <p align="center">
-  🌟 **Skills & Focus**:<br>
-  - **Frontend Development**: Proficient in HTML, CSS, JavaScript, and React.<br>
-  - **React Enthusiast**: Exploring React hooks and advanced features.<br>
-  - **Object-Oriented Programming (OOP)**: Experienced with concepts like Classes, Inheritance, and Polymorphism.<br>
-  - **Creative Touch**: Adding animations and interactivity to enhance user experience.
+  🌟 <strong>Skills & Focus</strong>:<br>
+  - <strong>Frontend Development</strong>: Proficient in HTML, CSS, JavaScript, and React.<br>
+  - <strong>React Enthusiast</strong>: Exploring React hooks and advanced features.<br>
+  - <strong>Object-Oriented Programming (OOP)</strong>: Experienced with concepts like Classes, Inheritance, and Polymorphism.<br>
+  - <strong>Creative Touch</strong>: Adding animations and interactivity to enhance user experience.
 </p>
 
 <p align="center">
-  🛠️ **Tech Stack**:<br>
-  - **Languages**: JavaScript (ES6+), HTML5, CSS3<br>
-  - **Frameworks**: React.js<br>
-  - **Tools**: Git, GitHub, VS Code
+  🛠️ <strong>Tech Stack</strong>:<br>
+  - <strong>Languages</strong>: JavaScript (ES6+), HTML5, CSS3<br>
+  - <strong>Frameworks</strong>: React.js<br>
+  - <strong>Tools</strong>: Git, GitHub, VS Code
 </p>
 
 <p align="center">
-  📈 **Goals**:<br>
-  - Transition into a **Full Stack Developer**.<br>
+  📈 <strong>Goals</strong>:<br>
+  - Transition into a <strong>Full Stack Developer</strong>.<br>
   - Contribute to open-source projects.
 </p>
 
 <p align="center">
-  📫 **Let’s Connect**:<br>
+  📫 <strong>Let’s Connect</strong>:<br>
   - Email: elsayed17jh2@gmail.com
 </p>
 
