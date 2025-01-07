@@ -12,7 +12,23 @@
 
 <br clear="both">
 
-<p align="center">👋 About Me<br>Hi, I'm Elsayed Gomaa, a Frontend Developer specializing in React.js. I enjoy building beautiful, interactive web applications that provide great user experiences.<br><br>🌟 Skills & Focus:<br>Frontend Development: Proficient in HTML, CSS, JavaScript, and React.<br>React Enthusiast: Exploring React hooks and advanced features.<br>Creative Touch: Adding animations and interactivity to enhance user experience.<br>🛠️ Tech Stack:<br>Languages: JavaScript (ES6+), HTML5, CSS3<br>Frameworks: React.js<br>Tools: Git, GitHub, VS Code<br>📈 Goals:<br>Transition into a Full Stack Developer.<br>Contribute to open-source projects.<br>📫 Let’s Connect:<br>Portfolio: [Your Portfolio Link]<br>Email: elsayed17jh2@gmail.com<br>LinkedIn: Your LinkedIn</p>
+<p align="center">About Me
+Hi, I'm Elsayed Gomaa, a Frontend Developer specializing in React.js. I enjoy building beautiful, interactive web applications that provide great user experiences.
+
+🌟 Skills & Focus:
+Frontend Development: Proficient in HTML, CSS, JavaScript, and React.
+React Enthusiast: Exploring React hooks and advanced features.
+Object-Oriented Programming (OOP): Experienced with concepts like Classes, Inheritance, and Polymorphism.
+Creative Touch: Adding animations and interactivity to enhance user experience.
+🛠️ Tech Stack:
+Languages: JavaScript (ES6+), HTML5, CSS3
+Frameworks: React.js
+Tools: Git, GitHub, VS Code
+📈 Goals:
+Transition into a Full Stack Developer.
+Contribute to open-source projects.
+📫 Let’s Connect:
+Email: elsayed17jh2@gmail.com </p>
 
 ###
 
