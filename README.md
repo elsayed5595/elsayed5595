@@ -6,29 +6,39 @@
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="center">About Me</h2>
 
 ###
 
-<br clear="both">
+<p align="center">
+  Hi, I'm Elsayed Gomaa, a Frontend Developer specializing in React.js. I enjoy building beautiful, interactive web applications that provide great user experiences.
+</p>
 
-<p align="center">About Me
-Hi, I'm Elsayed Gomaa, a Frontend Developer specializing in React.js. I enjoy building beautiful, interactive web applications that provide great user experiences.
+<p align="center">
+  🌟 **Skills & Focus**:<br>
+  - **Frontend Development**: Proficient in HTML, CSS, JavaScript, and React.<br>
+  - **React Enthusiast**: Exploring React hooks and advanced features.<br>
+  - **Object-Oriented Programming (OOP)**: Experienced with concepts like Classes, Inheritance, and Polymorphism.<br>
+  - **Creative Touch**: Adding animations and interactivity to enhance user experience.
+</p>
 
-🌟 Skills & Focus:
-Frontend Development: Proficient in HTML, CSS, JavaScript, and React.
-React Enthusiast: Exploring React hooks and advanced features.
-Object-Oriented Programming (OOP): Experienced with concepts like Classes, Inheritance, and Polymorphism.
-Creative Touch: Adding animations and interactivity to enhance user experience.
-🛠️ Tech Stack:
-Languages: JavaScript (ES6+), HTML5, CSS3
-Frameworks: React.js
-Tools: Git, GitHub, VS Code
-📈 Goals:
-Transition into a Full Stack Developer.
-Contribute to open-source projects.
-📫 Let’s Connect:
-Email: elsayed17jh2@gmail.com </p>
+<p align="center">
+  🛠️ **Tech Stack**:<br>
+  - **Languages**: JavaScript (ES6+), HTML5, CSS3<br>
+  - **Frameworks**: React.js<br>
+  - **Tools**: Git, GitHub, VS Code
+</p>
+
+<p align="center">
+  📈 **Goals**:<br>
+  - Transition into a **Full Stack Developer**.<br>
+  - Contribute to open-source projects.
+</p>
+
+<p align="center">
+  📫 **Let’s Connect**:<br>
+  - Email: elsayed17jh2@gmail.com
+</p>
 
 ###
 
@@ -57,5 +67,3 @@ Email: elsayed17jh2@gmail.com </p>
 ###
 
 <p align="left">Hello World!!</p>
-
-###
