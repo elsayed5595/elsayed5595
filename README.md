@@ -6,11 +6,13 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<p align="left">👋 About Me<br>Hi, I'm Elsayed Gomaa, a Frontend Developer specializing in React.js. I enjoy building beautiful, interactive web applications that provide great user experiences.<br><br>🌟 Skills & Focus:<br>Frontend Development: Proficient in HTML, CSS, JavaScript, and React.<br>React Enthusiast: Exploring React hooks and advanced features.<br>Creative Touch: Adding animations and interactivity to enhance user experience.<br>🛠️ Tech Stack:<br>Languages: JavaScript (ES6+), HTML5, CSS3<br>Frameworks: React.js<br>Tools: Git, GitHub, VS Code<br>📈 Goals:<br>Transition into a Full Stack Developer.<br>Contribute to open-source projects.<br>📫 Let’s Connect:<br>Portfolio: [Your Portfolio Link]<br>Email: elsayed17jh2@gmail.com<br>LinkedIn: Your LinkedIn</p>
+<br clear="both">
+
+<p align="center">👋 About Me<br>Hi, I'm Elsayed Gomaa, a Frontend Developer specializing in React.js. I enjoy building beautiful, interactive web applications that provide great user experiences.<br><br>🌟 Skills & Focus:<br>Frontend Development: Proficient in HTML, CSS, JavaScript, and React.<br>React Enthusiast: Exploring React hooks and advanced features.<br>Creative Touch: Adding animations and interactivity to enhance user experience.<br>🛠️ Tech Stack:<br>Languages: JavaScript (ES6+), HTML5, CSS3<br>Frameworks: React.js<br>Tools: Git, GitHub, VS Code<br>📈 Goals:<br>Transition into a Full Stack Developer.<br>Contribute to open-source projects.<br>📫 Let’s Connect:<br>Portfolio: [Your Portfolio Link]<br>Email: elsayed17jh2@gmail.com<br>LinkedIn: Your LinkedIn</p>
 
 ###
 
@@ -33,5 +35,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
